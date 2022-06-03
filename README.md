@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mujtabakhalid300.
 - 👀 I’m interested in web development and scraping.
-- 🌱 I’m currently learning React and Redux.
+- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects related to web scraping.
 - 📫 How to reach me
 ----Instagram ----> @artbymujtaba , 
