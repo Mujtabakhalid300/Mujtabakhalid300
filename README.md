@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects related to web scraping.
 - 📫 How to reach me
-----Instagram ----> @artbymujtaba , 
 Email ----> mujtabakhalid20@gmail.com
           
 
